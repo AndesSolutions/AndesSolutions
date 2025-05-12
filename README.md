@@ -1,16 +1,19 @@
-## Hi there 👋
+# Andes Solutions 🏔️
 
-<!--
-**AndesSolutions/AndesSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software que escala contigo**  
+*Soluciones digitales artesanales, sin plantillas genéricas*
 
-Here are some ideas to get you started:
+## 🔍 ¿Qué hacemos?
+Desarrollamos sistemas y aplicaciones **100% personalizados** para empresas que:
+- Requieren herramientas adaptadas a sus procesos únicos
+- Rechazan soluciones prefabricadas con funcionalidades innecesarias
+- Valoran código limpio y mantenible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+# Nuestra filosofía en código
+def desarrollar_solucion(problema_cliente):
+    return Software(
+        personalizado=True,
+        escalable=True,
+        sin_codigo_innecesario=True
+    )
